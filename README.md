@@ -1,17 +1,14 @@
-# apis_katalog
+# Katalog Jam Tangan - Fluter Mobile App
+Aplikasi Mobile berbasis Flutter yang menampilkan katalog jam tangan secara dinamis sengan mengambil data fetching dari REST API eksternal serta di lengkapi fitur filter produk dan kolom pencarian.
 
-A new Flutter project.
+---
+## Fitur Utama
+- **Pengambilan Data Asinkron**: Mengambil data produk secara *real-time* dari API publik ('dummyjson.com').
+- **Filter Produk Otomatis**: Menyaring data produk spesifik hanya untuk kategori jam tangan pria dan wanita.
+- **Pencarian Produk**: Dilengkapi dengan kolom pencarian di bagian atas untuk memudahkan pengguna mencari jam tangan berdasarkan nama, merk, atau kategori.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+## Video Demostrasi
+Tonton Video demostrasi pengujian aplikasi pada perangkat android fisik melalui link berikut:
+- **YouTube**: [KLIK LINK DISINI](https://youtu.be/EotP9vaf_oM?si=8Fa_6-sZoawsHez)
+---
